@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.7 Timeout strong kick function
+V0.8 Private chat function
