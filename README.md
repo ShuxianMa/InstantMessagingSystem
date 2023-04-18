@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-# V0.6 rename user name
+V0.7 Timeout strong kick function
