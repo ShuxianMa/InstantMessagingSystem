@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.9 Client implementation, establish a connection
+V0.9 Client implementation, Command line parsing
