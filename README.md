@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.8 Private chat function
+V0.9 Client implementation, establish a connection
