@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.9 Client implementation, menu display
+V0.9 Client implementation, Update user name
