@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.9 Client implementation, Update user name
+V0.9 Client implementation, Public chat mode
