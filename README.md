@@ -1,2 +1,2 @@
 # InstantMessagingSystem
-V0.9 Client implementation, Public chat mode
+V0.9 Client implementation, Private chat mode
